@@ -2840,6 +2840,8 @@
 				#header nav > ul > li {
 					display: inline-block;
 					padding-left: 0;
+					text-transform: uppercase;
+					font-weight: 600;
 				}
 
 					#header nav > ul > li > ul {
